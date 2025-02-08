@@ -53,3 +53,4 @@ The course covers a wide range of topics, including:
 - **Classes**: Object-oriented programming, classes, inheritance, and decorators.
 - **Conclusion**: Wrapping up the course with final thoughts and additional exercises.
 
+Öğrenme yolculuğunuzun tadını çıkarın ve bu arşivde dersle ilgili projelerimi ve ödevlerimi keşfetmekten çekinmeyin!
